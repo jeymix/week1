@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "smolyakovalexandr"
+      "X-Author": "smolyakovalexandr",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
